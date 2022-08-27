@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^1.0.2-beta-readme2",
+    "bare-server-node": "github:tomphttp/bare-server-node",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "express-dynamic-static": "^1.0.5",
+    "node-static": "^0.7.11",
+    "three": "^0.143.0",
+    "uuid": "^8.3.2"
+  },
+  "name": "abyss",
+  "version": "1.0.0",
+  "description": "a proxy site with many faces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later"
+}
